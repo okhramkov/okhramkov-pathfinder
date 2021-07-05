@@ -32,8 +32,8 @@ D-E,4$
 >./pathfinder example | cat -e
 ###  Output
 
-
-========================================$
+''''
+========================================
 Path: A -> B
 Route: A -> B$
 Distance: 11$
@@ -93,6 +93,7 @@ Path: D -> E
 Route: D -> E
 Distance: 4
 ========================================
+''''
 
 ## Possible errors
 
